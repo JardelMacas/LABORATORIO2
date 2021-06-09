@@ -17,10 +17,10 @@ Objetivos Especificos
 
 **2.MARCO TEORICO**
 
-![]()
-![]()
+![](https://github.com/JardelMacas/LABORATORIO2/blob/main/Resumen/Resumen%20Lab.png)
 
 **3.EXPLICACIÓN DEL PROCEDIMIENTO**
+
 ![]()
 
 **4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
