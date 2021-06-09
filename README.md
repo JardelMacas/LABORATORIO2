@@ -21,7 +21,9 @@ Objetivos Especificos
 
 **3.EXPLICACIÓN DEL PROCEDIMIENTO**
 
-![]()
+![](https://github.com/JardelMacas/LABORATORIO2/blob/main/Procedimiento/ProLab2-1.png)
+![](https://github.com/JardelMacas/LABORATORIO2/blob/main/Procedimiento/ProLab2-2.png)
+![](https://github.com/JardelMacas/LABORATORIO2/blob/main/Procedimiento/ProLab2-3.png)
 
 **4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
