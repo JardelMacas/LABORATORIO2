@@ -28,7 +28,13 @@ Objetivos Especificos
 **4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 
-![]()
+![](https://github.com/JardelMacas/LABORATORIO2/blob/main/Proceso%20Matematico/ProMatLab2-1.png)
+![](https://github.com/JardelMacas/LABORATORIO2/blob/main/Proceso%20Matematico/ProMatLab2-2.png)
+![](https://github.com/JardelMacas/LABORATORIO2/blob/main/Proceso%20Matematico/ProMatLab2-3.png)
+![](https://github.com/JardelMacas/LABORATORIO2/blob/main/Proceso%20Matematico/ProMatLab2-4.png)
+![](https://github.com/JardelMacas/LABORATORIO2/blob/main/Proceso%20Matematico/ProMatLab2-5.png)
+![](https://github.com/JardelMacas/LABORATORIO2/blob/main/Proceso%20Matematico/ProMatLab2-6.png)
+![](https://github.com/JardelMacas/LABORATORIO2/blob/main/Proceso%20Matematico/ProMatLab2-7.png)
 
 
 **5.VIDEO**
